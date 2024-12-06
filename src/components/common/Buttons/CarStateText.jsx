@@ -1,4 +1,4 @@
-import { stateMap } from "./style/car";
+import { stateMap } from "../../style/car";
 
 const CarStateText = (props) => {
   return (

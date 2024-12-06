@@ -1,7 +1,7 @@
-import CarNameText from "./components/CarNameText";
-import CarNumber from "./components/CarNumber";
-import CarStateText from "./components/CarStateText";
-import { stateMap } from "./components/style/car";
+import CarNameText from "../common/Buttons/CarNameText";
+import CarNumber from "../common/Buttons/CarNumber";
+import CarStateText from "../common/Buttons/CarStateText";
+import { stateMap } from "../style/car";
 
 const CarCard = (props) => {
   return (
